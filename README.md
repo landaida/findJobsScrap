@@ -1,2 +1,3 @@
 # findJobsScrap
-Scraping https://www.monster.com
+Scraping some pages and searching for jobs.
+https://www.monster.com
